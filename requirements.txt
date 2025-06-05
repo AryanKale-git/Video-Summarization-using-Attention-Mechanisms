@@ -1,0 +1,12 @@
+flask
+werkzeug
+opencv-python
+numpy
+moviepy         # Optional: for more advanced video editing
+ffmpeg-python   # Optional: if working with audio or transcoding
+torch           # Optional: for deep learning-based summarization
+tensorflow      # Optional: if you want to use TensorFlow models
+scikit-learn    # Optional: for clustering in keyframe extraction
+matplotlib      # Optional: for plotting or visualization
+pillow          # Optional: image handling (e.g., thumbnails)
+flask-cors      # Optional: if integrating with frontend apps
